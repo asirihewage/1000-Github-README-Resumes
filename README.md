@@ -37,11 +37,56 @@ Choose one and follow these steps to add it into your profile.
 
 You will see your cool GitHub Resume in your profile page.
 
-## Sample 01
+## Sample 01 - Image Playground
 ![sample01](screenshots/sample1.png)
 
-## Sample 02
+## Sample 02 - Simple Text
 ![sample02](screenshots/sample2.png)
+
+## Sample 03 - Emoji Hero
+A fun, emoji-filled profile focused on personality and quick facts. Great for showcasing your vibe at a glance.
+
+## Sample 04 - Life Quotes and Messages
+Share your favorite quotes, daily mantras, and messages with the community.
+
+## Sample 05 - Links-In
+A clean "link-in-bio" style profile to route visitors to your socials, portfolio, and other platforms.
+
+## Sample 06 - Storyteller
+Tell your journey in a narrative format - how you got into tech and where you are heading.
+
+## Sample 07 - Women In Coding
+A profile celebrating women in tech with badges, community links, and a supportive tone.
+
+## Sample 08 - Gamer
+For the gaming devs out there - gamified stats, fun headers, and gamer-friendly styling.
+
+## Sample 09 - Researcher
+A template tailored for academics - publications, citations, research interests, and papers.
+
+## Sample 10 - My Business
+Market your startup or freelance business directly from your profile.
+
+## Sample 11 - CV
+A classic text-based CV that renders beautifully as Markdown.
+
+## Sample 11 - YouTube Star
+Built for content creators - video embeds, channel stats, and community links.
+
+## Sample 12 - Standard README
+A thorough project README template covering documentation best practices.
+
+## Sample 13 - GitHub Stats
+Show off your GitHub stats, top languages, streaks, and pinned projects with dynamic cards.
+
+## Sample 14 - Terminal
+A hacker-style profile written like a terminal session. Perfect for CLI lovers.
+
+## Sample 15 - Portfolio Table
+A professional resume-style layout with experience, skills, and achievements organized in tables.
+
+## Sample 16 - Minimalist
+A clean, distraction-free profile - just the essentials with a modern look.
 
 ### Be creative! Don't forget to rate this repository 💙 
 
